@@ -20,7 +20,7 @@
 2. 🚀 Lançar um foguete com controle ativo
 3. ❤️ Criar um projeto que se torne referência na comunidade
 
-<--
+<!--
 ## Habilidades
 
 -->
